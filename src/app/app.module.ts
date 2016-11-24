@@ -7,12 +7,14 @@ import {AppComponent} from './app.component';
 import {routing, appRoutingProviders} from './app.routing';
 import {HomeComponent} from './home/home.component';
 import {AboutComponent} from './about/about.component';
+import {MovieInfoComponent} from './movie-info/movie-info.component';
 
 @NgModule({
     declarations: [
         AppComponent,
         HomeComponent,
-        AboutComponent
+        AboutComponent,
+        MovieInfoComponent
     ],
     imports: [
         BrowserModule,
