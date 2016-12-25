@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Lato');
+
+body {
+  padding: 5px auto;
+}
+.mn-main {
+  background: #dbdbdb;
+}
+.mn-navbar-item {
+  color: #fbfbfb;
+}
+.mn-info {
+  margin: -30px auto -10px auto;
+}
+.mn-search-box {
+  margin: 30px auto -10px auto;
+}
+.mn-trailer {
+  background: #dbdbdb;
+  margin: -25px auto -10px auto;
+}
