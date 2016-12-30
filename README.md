@@ -26,6 +26,14 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 Run `ng github-pages:deploy` to deploy to Github Pages.
 
-## Further help
-
-To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Generating Extra Blueprints
+| Scafold    | Command                             |
+| ----------   ----------------------------------- |
+| Component  | `ng generate component my-component`|
+| Directive  | `ng generate directive my-directive`|
+| Pipe       | `ng generate pipe my-pipe`          |
+| Service    | `ng generate service my-service`    |
+| Class      | `ng generate class my-class`        |
+| Interface  | `ng generate interface my-interface`|
+| Enum       | `ng generate enum my-enum`          |
+| Module     | `ng generate module my-module`      |
