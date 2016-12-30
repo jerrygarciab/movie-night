@@ -28,7 +28,7 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 
 ## Generating Extra Blueprints
 | Scafold    | Command                             |
-| ----------   ----------------------------------- |
+| ---------- | ----------------------------------- |
 | Component  | `ng generate component my-component`|
 | Directive  | `ng generate directive my-directive`|
 | Pipe       | `ng generate pipe my-pipe`          |
